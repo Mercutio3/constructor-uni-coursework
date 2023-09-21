@@ -1,8 +1,5 @@
 /*
-CH-230-A
-a1_p6.c 
-Santiago Dominguez
-sdominguez@jacobs-university.de
+Performs some character manipuations with ASCII and prints the results.
 */
 
 #include <stdio.h>
