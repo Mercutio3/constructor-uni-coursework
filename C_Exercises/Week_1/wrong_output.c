@@ -1,8 +1,6 @@
 /*
-CH-230-A
-a1_p2.c 
-Santiago Dominguez
-sdominguez@jacobs-university.de
+Fixed version of a simple program that did not work.
+It demonstrates order of operations in C.
 */
 
 #include <stdio.h>
