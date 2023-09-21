@@ -1,8 +1,5 @@
 /*
-CH-230-A
-a1_p3.c 
-Santiago Dominguez
-sdominguez@jacobs-university.de
+Corrected version of a program that failed to compile.
 */
 
 #include <stdio.h>
