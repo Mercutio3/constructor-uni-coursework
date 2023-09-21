@@ -1,8 +1,6 @@
 /*
-CH-230-A
-a1_p5.c 
-Santiago Dominguez
-sdominguez@jacobs-university.de
+Simple program that demonstrates how to print different data types.
+Also demonstrates how to adjust floating point precision.
 */
 
 #include <stdio.h>
