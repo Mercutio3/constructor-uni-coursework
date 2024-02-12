@@ -1,0 +1,28 @@
+1. Select the corrrect answer for the following question:
+Which list is the longest list with containers in which you can you use the insert method?
+(1) vector, set, map
+(2) vector, list, deque
+(3) set, multiset, map, multimap
+(4) vector, list, deque, set, multiset, map, multimap
+(5) None of the above
+
+Containers with insert funciton: Vector, Set, Map, Multimap, Deque, Multiset
+Answer: 4
+
+----------------------------------------------
+
+Problem P.4 Search in Data Structures
+Select one or multiple correct answers for the following statement:
+The following data structures can perform a search operation in time of O(n log n):
+(1) Heap
+(2) Max-heap
+(3) Queue
+(4) Binary search tree
+(5) Red black tree
+
+None of these perform in time O(n log n). They all take less time:
+Heap: O(n)
+Max-heap: O(n)
+Queue: O(n)
+BST: O(h)
+RBT: O(logn)

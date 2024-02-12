@@ -1,0 +1,21 @@
+/*
+CH-230-A
+a10_p1.c
+Santiago Dominguez
+sdominguez@jacobs-university.de
+ */
+
+a) The line "using namespace std;" tells the compiler to look for the
+input and output functions in the standard (std) library. The error
+message will state that functions like "cout", "cin", and "endl" are not
+defined. If you wanted to fix this without adding the namespace, you
+would have to explicitly add "std::" before each usage of the function.
+This works identically but can be very impractical for longer programs.
+
+b) Removing the "Critter::" prefix from, for example, the "setName"
+method returns an error for an "undeclared identifier". Because the 
+variable "name" and the "setName" method itself are declared and 
+defined in the "Critter.h" header file, you need to specifically
+indicate the compiler to use variable and methods from the imported
+library. A potential alternative solution would be to define a "Critter"
+namespace.
