@@ -1,9 +1,9 @@
 /*
-CH-230-A
-a2_p10.c 
-Santiago Dominguez
-sdominguez@jacobs-university.de
-*/
+ * CH-230-A
+ * a2_p10.c
+ * Santiago Dominguez
+ * 13 September 2022
+ */
 
 #include <stdio.h>
 #include <stdbool.h>

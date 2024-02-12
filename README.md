@@ -13,9 +13,11 @@ Optional homework for my second-semester class "Algorithms and Data Structures".
 
 ## src-os
 
-Weekly mandatory homework assignments for the "Operating Systems" class. They deal mostly with low-level C programming.
+Mandatory homework assignments for the "Operating Systems" class. They deal mostly with low-level C programming. Topics covered include environment variables, reading terminal input, POSIX synchronization, memory mapping, client-server programming, and event loop programming. I particularly enjoyed solving these problems.
 
 # Future Plans
-I am now much more experienced and familiar with coding than when I first solved these exercises. While commiting my code to this repository, I had the opportunity to look back at my code; I was able to find numerous things I would like to change.
+I am now much more experienced and familiar with coding than when I first solved these exercises. While uploading and organizing my code in this repository, I had the opportunity to look back at my code. I was able to find numerous things I would like to change.
 
 None of these changes would alter the core functionality of my solution programs. Instead, most of them have to do mostly with having cleaner code. I intend to set aside the time one day to clean up my code and add better comments and descriptions to make this repository a better learning & review tool for myself and others.
+
+In order to improve the usability of this repo as a study/review tool, I intend to add more detailed explanations of the problems and their solutions.

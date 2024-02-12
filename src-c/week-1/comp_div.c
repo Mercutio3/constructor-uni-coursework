@@ -1,9 +1,9 @@
 /*
-CH-230-A
-a1_p1.c
-Santiago Dominguez 
-sdominguez@jacobs-university.de
-*/
+ * CH-230-A
+ * a1_p1.c
+ * Santiago Dominguez
+ * 6 September 2022
+ */
 
 #include <stdio.h>
 
