@@ -1,7 +1,7 @@
 # Overview
 Welcome! :)
 
-This repository consists of programming-related assignments and coursework during my studies at Constructor University. Obviously, I do not endorse copying answers or take responsibility for students who hinder their own learning by doing so. This is meant to be a tool to help learn and/or review.
+This repository consists of programming-related assignments and coursework during my studies at Constructor University. Obviously, I *DO NOT* endorse copying answers or take responsibility for students who hinder their own learning by doing so. This is meant to be a tool to help learn and/or review.
 
 ## src-c and src-cpp
 
@@ -14,6 +14,10 @@ Optional homework for my second-semester class "Algorithms and Data Structures".
 ## src-os
 
 Mandatory homework assignments for the "Operating Systems" class. They deal mostly with low-level C programming. Topics covered include environment variables, reading terminal input, POSIX synchronization, memory mapping, client-server programming, and event loop programming. I particularly enjoyed solving these problems.
+
+## src-se_project
+
+Source code for my fourth semester class "Software Engineering" project. We were tasked with writing a python library that implements a Datacube object and processes Rasdaman queries. The three sprints are separated into their own folders and each have their own README files, since I worked with a different partner on each. Sprint 2 is by far the most feature-complete and robust implementation.
 
 # Future Plans
 I am now much more experienced and familiar with coding than when I first solved these exercises. While uploading and organizing my code in this repository, I had the opportunity to look back at my code. I was able to find numerous things I would like to change.
