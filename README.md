@@ -19,6 +19,12 @@ Mandatory homework assignments for the "Operating Systems" class. They deal most
 
 Source code for my fourth semester class "Software Engineering" project. We were tasked with writing a python library that implements a Datacube object and processes Rasdaman queries. The three sprints are separated into their own folders and each have their own README files, since I worked with a different partner on each. Sprint 2 is by far the most feature-complete and robust implementation.
 
+## src-thesis
+
+A pair of web scrapres designed for two PhD/Post-PhD academic posting websites: FindAPhD and
+AcademicPositions. These were used to collect data about AI-related postings, which was later analyzed
+and enriched via an LLM.
+
 # Future Plans
 I am now much more experienced and familiar with coding than when I first solved these exercises. While uploading and organizing my code in this repository, I had the opportunity to look back at my code. I was able to find numerous things I would like to change.
 
