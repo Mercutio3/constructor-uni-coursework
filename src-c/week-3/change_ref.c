@@ -2,10 +2,12 @@
 CH-230-A
 a3_p10.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+29 September 2022
+Demonstrates arithmetic operations via pointers
 */
 
 #include <stdio.h>
+
 float product(float a, float b);
 void productbyref(float a, float b, float *p);
 void modifybyref(float *a, float *b);

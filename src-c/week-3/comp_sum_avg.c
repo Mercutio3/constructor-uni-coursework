@@ -2,7 +2,8 @@
 CH-230-A
 a3_p8.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+21 September 2022
+Reads float array of user-defined length, computes sum and average of its values
 */
 
 #include <stdio.h>

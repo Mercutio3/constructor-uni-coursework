@@ -2,7 +2,8 @@
 CH-230-A
 a4_p9.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+27 September 2022
+Allocates memory for int array dynamically, prints product of smallest and largest elements
 */
 
 #include <stdio.h>

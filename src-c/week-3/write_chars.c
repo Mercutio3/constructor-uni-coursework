@@ -2,7 +2,8 @@
 CH-230-A
 a3_p2.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Reads character ch and integer n, prints characters ch, ch-1, ..., ch-n
 */
 
 #include <stdio.h>

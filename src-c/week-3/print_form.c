@@ -2,7 +2,8 @@
 CH-230-A
 a3_p7.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+21 September 2022
+Prints a trapezoid with attributes read from user input
 */
 
 #include <stdio.h>

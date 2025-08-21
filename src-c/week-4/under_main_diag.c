@@ -2,7 +2,8 @@
 CH-230-A
 a4_p7.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+27 September 2022
+Prints a square matrix of given dimensions, then elements under main diagonal
 */
 
 #include <stdio.h>

@@ -2,7 +2,8 @@
 CH-230-A
 a3_p3.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Reads user input for centimeters and returns it in kilometers
 */
 
 #include <stdio.h>

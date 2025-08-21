@@ -2,7 +2,8 @@
 CH-230-A
 a4_p12.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+30 September 2022
+Replaces all instances of a read character in a read string with another read character
 */
 
 #include <stdio.h>

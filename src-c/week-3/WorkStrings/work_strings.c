@@ -2,7 +2,8 @@
 CH-230-A
 a3_p11.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+30 September 2022
+Reads strings, measures length, concatenates, copies, compares order, searches for a character
 */
 
 #include <stdio.h>

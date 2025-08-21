@@ -2,7 +2,8 @@
 CH-230-A
 a4_p10.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+2 October 2022
+Performs float arithmetic, returning results by pointer reference
 */
 
 #include <stdio.h>

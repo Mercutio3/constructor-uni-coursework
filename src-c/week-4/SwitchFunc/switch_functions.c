@@ -2,7 +2,8 @@
 CH-230-A
 a4_p3.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+27 September 2022
+Uses switch statement and user input to perform an operation on an array of arbitrary length
 */
 
 #include <stdio.h>

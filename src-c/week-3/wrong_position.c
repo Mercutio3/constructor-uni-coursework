@@ -2,7 +2,8 @@
 CH-230-A
 a3_p4.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Reads a string, prints index of first occurence of character 'g' in said string
 */
 
 #include <stdio.h>

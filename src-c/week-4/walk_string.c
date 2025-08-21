@@ -2,7 +2,8 @@
 CH-230-A
 a4_p11.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+29 September 2022
+Case-insensitive count of characters in a dyanmically allocated array
 */
 
 #include <stdio.h>

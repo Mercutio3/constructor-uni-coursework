@@ -2,7 +2,8 @@
 CH-230-A
 a4_p2.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+27 September 2022
+Prints string in zig-zag shape
 */
 
 #include <stdio.h>

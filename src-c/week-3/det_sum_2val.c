@@ -2,7 +2,8 @@
 CH-230-A
 a3_p9.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+21 September 2022
+Prints values in indexes 2 and 5 of an array
 */
 
 #include <stdio.h>

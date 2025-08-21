@@ -2,7 +2,8 @@
 CH-230-A
 a3_p5.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Uses switch statement to handle different operations with read temperature values
 */
 
 #include <stdio.h>

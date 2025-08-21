@@ -2,7 +2,8 @@
 CH-230-A
 a3_p1.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Reads float x and an int n, checks for validity, and prints x n times
 */
 
 #include <stdio.h>

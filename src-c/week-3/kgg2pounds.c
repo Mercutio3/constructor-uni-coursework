@@ -2,7 +2,8 @@
 CH-230-A
 a3_p6.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+20 September 2022
+Reads weight in two ints (kgs + grams), converts to pounds as float, prints result
 */
 
 #include <stdio.h>

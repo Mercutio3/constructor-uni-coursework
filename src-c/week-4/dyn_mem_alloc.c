@@ -2,7 +2,8 @@
 CH-230-A
 a4_p6.c 
 Santiago Dominguez
-sdominguez@jacobs-university.de
+28 September 2022
+Allocates memory for int array dynamically, prints two largest elements
 */
 
 #include <stdio.h>
