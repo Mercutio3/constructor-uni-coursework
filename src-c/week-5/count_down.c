@@ -2,7 +2,8 @@
 CH-230-A
 a5_p10.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Recursive count-down from N to 1
  */
 
 #include <stdio.h>

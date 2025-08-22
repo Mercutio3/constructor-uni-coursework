@@ -6,11 +6,11 @@
 CH-230-A
 a8_p3.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Runs queue implementation. Pre-written code that I fixed.
  */
 
 #include <stdio.h>
-
 #include "queue.h"
 
 int main() 

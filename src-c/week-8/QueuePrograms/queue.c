@@ -6,7 +6,8 @@
 CH-230-A
 a8_p3.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Implements queue structs functionality. Pre-written code that I fixed.
  */
 
 #include <stdio.h>

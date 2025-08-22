@@ -2,10 +2,12 @@
 CH-230-A
 a6_p1.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+11 October 2022
+Defines macro for swapping, swaps user-read ints and doubles, prints results
  */
 
 #include <stdio.h>
+
 #define SWAP(X, Y, type) {type TEMP = X; X = Y; Y = TEMP;}
 
 int main(){

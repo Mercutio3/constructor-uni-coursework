@@ -2,7 +2,8 @@
 CH-230-A
 a8_p7.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Concatenates "text1.txt" and "text2.txt", writes result to "merge12.txt"
  */
 
 #include <stdio.h>

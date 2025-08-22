@@ -2,11 +2,13 @@
 CH-230-A
 a5_p9.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+5 October 2022
+Allocates a 3D matrix, reads user-input values, and prints everything
  */
 
 #include <stdio.h>
 #include <stdlib.h>
+
 void readMatrix(int ***matrix, int rows, int cols, int depth);
 void printMatrix(int ***matrix, int rows, int cols, int depth);
 

@@ -2,7 +2,8 @@
 CH-230-A
 a7_p6.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+21 October 2022
+Implements Bubble Sort for name and age attributes of a "person" struct
  */
 
 #include <stdio.h>

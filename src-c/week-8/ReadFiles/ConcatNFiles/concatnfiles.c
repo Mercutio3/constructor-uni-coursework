@@ -2,7 +2,8 @@
 CH-230-A
 a8_p9.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Reads N user-specified files, concatenates them, writes result to "output.txt"
  */
 
 #include <stdio.h>

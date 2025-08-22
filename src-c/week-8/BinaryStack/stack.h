@@ -2,7 +2,8 @@
 CH-230-A
 a8_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Header file defining struct for stack implementation
  */
 
 #ifndef _STACK_H_

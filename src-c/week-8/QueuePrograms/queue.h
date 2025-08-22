@@ -6,7 +6,8 @@
 CH-230-A
 a8_p3.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Header file defining structs for queue implementation
  */
 
 #ifndef _QUEUE_H_
@@ -29,6 +30,7 @@ typedef struct queue
 	int items;
 } Queue;
 
+//The rest of this code was provided to me via assignment instructions
 
 /**
  * @brief Initializes a queue

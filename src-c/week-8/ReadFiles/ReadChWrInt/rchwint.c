@@ -2,7 +2,8 @@
 CH-230-A
 a8_p5.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Reads two characters from file "chars.txt", writes their sum on "codesum.txt"
  */
 
 #include <stdio.h>

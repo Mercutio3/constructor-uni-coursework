@@ -2,11 +2,13 @@
 CH-230-A
 a5_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Iterative division of a dynamically allocated array by 5 (as per instructions)
  */
 
 #include <stdio.h>
 #include <stdlib.h>
+
 void divby5(float arr[], int size);
 
 int main() {

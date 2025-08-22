@@ -2,7 +2,8 @@
 CH-230-A
 a7_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+19 October 2022
+Uses function pointers and main loop to change or swap string caps
  */
 
 #include <stdio.h>

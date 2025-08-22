@@ -2,10 +2,12 @@
 CH-230-A
 a5_p2.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Iterative division of a static array by 5 (as per instructions)
  */
 
 #include <stdio.h>
+
 void divby5(float arr[], int size);
 
 int main() {

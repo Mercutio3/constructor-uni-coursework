@@ -2,7 +2,8 @@
 CH-230-A
 a6_p6.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+12 October 2022
+Prints decimal and binary representation of a char read from user input
  */
 
 #include <stdio.h>

@@ -2,7 +2,8 @@
 CH-230-A
 a5_p5.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Iterative calculations (scalar product, min, max) on static arrays of given length
  */
 
 #include <stdio.h>

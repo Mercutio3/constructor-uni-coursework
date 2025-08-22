@@ -2,7 +2,8 @@
 CH-230-A
 a8_p8.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Reads "words.txt" file and counts how many words use special characters
  */
 
 #include <stdio.h>

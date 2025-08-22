@@ -2,7 +2,8 @@
 CH-230-A
 a7_p7.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+22 October 2022
+Runs stack implementation, uses switch statement to execute features
  */
 
 #include <stdio.h>

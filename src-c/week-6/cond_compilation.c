@@ -2,12 +2,13 @@
 CH-230-A
 a6_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+11 October 2022
+Computes scalar product of two vectors, with optional extra output via macro
  */
 
 #include <stdio.h>
 
-#define INTERMEDIATE
+#define INTERMEDIATE //Optional printing of intermediate computation values
 
 void scalarProduct(int vector1[], int vector2[], int components);
 

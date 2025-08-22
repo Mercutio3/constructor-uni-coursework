@@ -2,7 +2,9 @@
 CH-230-A
 a7_p1.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+18 October 2022
+22 October 2022
+Runs linked list implementation, uses switch statement to execute features
  */
 
 #include <stdio.h>

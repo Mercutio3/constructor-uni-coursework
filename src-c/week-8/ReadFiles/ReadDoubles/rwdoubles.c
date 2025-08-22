@@ -2,17 +2,20 @@
 CH-230-A
 a8_p6.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Reads doubles from user-specified files, performs arithmetic, writes results in "results.txt"
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+#define MAX_LINE 100 //Max length of user input
+
 int main(){
     //Create file pointer for reading files, read file names from user input
-    char line1[100];
-    char line2[100];
+    char line1[MAX_LINE];
+    char line2[MAX_LINE];
     fgets(line1, sizeof(line1), stdin);
     fgets(line2, sizeof(line2), stdin);
     

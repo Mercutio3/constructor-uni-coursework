@@ -2,10 +2,12 @@
 CH-230-A
 a5_p11.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Determines if a number is a prime number using recursion
  */
 
 #include <stdio.h>
+
 int isPrime(int num, int i);
 
 int main(){
@@ -39,8 +41,6 @@ int isPrime(int num, int i){
         return 0;
     }
     
-    
-
     //Call function with next divisor
     return isPrime(num, i+1);
 }

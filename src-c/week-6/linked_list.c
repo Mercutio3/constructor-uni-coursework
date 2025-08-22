@@ -2,7 +2,8 @@
 CH-230-A
 a6_p8.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+12 October 2022
+Implements dynamic linked list, with switch statement to allow adding and deleting
  */
 
 #include <stdio.h>

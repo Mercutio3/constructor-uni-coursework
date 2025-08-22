@@ -2,7 +2,8 @@
 CH-230-A
 a7_p7.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+22 October 2022
+Implements stack struct functionality: push, pop, empty, and isEmpty check
  */
 
 #include <stdio.h>

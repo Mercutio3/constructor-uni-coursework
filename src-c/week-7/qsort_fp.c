@@ -2,7 +2,8 @@
 CH-230-A
 a7_p5.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+21 October 2022
+Implements ascending and descending quicksort using function pointers
  */
 
 #include <stdio.h>
@@ -53,11 +54,9 @@ int main() {
     }
     return 0;
 }
-    
-    
 
+//Call qsort with ascending order filter
 void sortUp(int numArray[], int size){
-    //Call qsort with ascending order filter
     qsort(numArray, size, sizeof(numArray[0]), ascendingOrder);
     for(int i = 0; i < size; i++){
         printf("%d ", numArray[i]);
@@ -65,6 +64,7 @@ void sortUp(int numArray[], int size){
     printf("\n");
 }
 
+//Ascending order filter
 int ascendingOrder(const void *va, const void *vb) {
     const int* a = (const int*) va;
     const int* b = (const int*) vb;
@@ -77,8 +77,9 @@ int ascendingOrder(const void *va, const void *vb) {
     }
 }
 
+//Call qsort with descending order filter
 void sortDown(int numArray[], int size){
-    //Call qsort with descending order filter
+    
     qsort(numArray, size, sizeof(numArray[0]), descendingOrder);
     for(int i = 0; i < size; i++){
         printf("%d ", numArray[i]);
@@ -86,6 +87,7 @@ void sortDown(int numArray[], int size){
     printf("\n");
 }
 
+//Descending order filter
 int descendingOrder(const void *va, const void *vb) {
     const int* a = (const int*) va;
     const int* b = (const int*) vb;

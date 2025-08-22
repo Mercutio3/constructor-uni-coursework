@@ -2,7 +2,8 @@
 CH-230-A
 a8_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Implements stack struct functionality: push, pop, empty, print, and isEmpty check
  */
 
 #include <stdio.h>

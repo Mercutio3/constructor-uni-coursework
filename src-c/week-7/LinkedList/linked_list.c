@@ -2,7 +2,8 @@
 CH-230-A
 a7_p1.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+18 October 2022
+Implements linked list struct funcitonality: inserting, deletion, printing, disposal
  */
 
 #include <stdio.h>

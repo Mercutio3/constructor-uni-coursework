@@ -2,11 +2,14 @@
 CH-230-A
 a5_p3.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Counts lowercase characters in a string read from user input, using pointers
  */
 
 #include <stdio.h>
 #include <string.h>
+
+#define MAX_LINE 50 //Max size of user input
 
 int count_lower(char* str);
 
@@ -14,7 +17,7 @@ int main() {
     while(1){
         //Initialize array, read user input
         printf("Enter string:\n");
-        char line[50];
+        char line[MAX_LINE];
         fgets(line, sizeof(line), stdin);
 
         //Terminate program if string is empty

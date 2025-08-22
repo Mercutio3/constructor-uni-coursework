@@ -2,7 +2,8 @@
 CH-230-A
 a7_p2.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+18 October 2022
+Implements doublely-linked list with insertion, deletion, printing, and reversing
  */
 
 #include <stdio.h>

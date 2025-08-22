@@ -2,7 +2,8 @@
 CH-230-A
 a6_p9.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+13 October 2022
+Extends linked_list.c to allow reversing elements, reversing list, and counting
  */
 
 #include <stdio.h>

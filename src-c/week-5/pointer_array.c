@@ -2,7 +2,8 @@
 CH-230-A
 a5_p6.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+4 October 2022
+Iterates over an array with pointers, prints number of items before first negative
  */
 
 #include <stdio.h>

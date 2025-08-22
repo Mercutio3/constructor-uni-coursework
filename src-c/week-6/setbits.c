@@ -2,7 +2,8 @@
 CH-230-A
 a6_p7.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+12 October 2022
+Reads a char from user input, sets three of its bits to 1, prints result
  */
 
 #include <stdio.h>

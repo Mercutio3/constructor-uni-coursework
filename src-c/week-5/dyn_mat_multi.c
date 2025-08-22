@@ -2,7 +2,8 @@
 CH-230-A
 a5_p8.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+5 October 2022
+Multiplies two dynamically allocated matrices of given dimensions and characters
  */
 
 #include <stdio.h>

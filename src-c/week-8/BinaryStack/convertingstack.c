@@ -2,7 +2,8 @@
 CH-230-A
 a8_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
+25 October 2022
+Runs stack implementation, converting ints to binary before storing
  */
 
 #include <stdio.h>
