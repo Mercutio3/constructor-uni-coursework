@@ -2,7 +2,8 @@
 CH-230-A
 a9_p1.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
+1 November 2022
+Reads string from user input and prints it
  */
 
 #include <iostream>

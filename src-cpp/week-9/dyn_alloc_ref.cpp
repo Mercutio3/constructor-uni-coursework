@@ -2,8 +2,9 @@
 CH-230-A
 a9_p8.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+2 November 2022
+Reads an array of ints, subtracts max value from all values, prints result
+*/
 
 #include <iostream>
 
@@ -62,7 +63,7 @@ void subtract_max(int *array, int size){
     }
 }
 
+//Deallocate memory
 void deallocate(int* array){
-    //Deallocate memory
     delete[] array;
 }

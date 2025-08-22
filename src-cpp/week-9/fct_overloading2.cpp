@@ -2,8 +2,9 @@
 CH-230-A
 a9_p6.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+2 November 2022
+Overloads function myfirst() to do different things depending on input types
+*/
 
 #include <iostream>
 #include <cmath>
@@ -48,9 +49,8 @@ int main(int argc, char** argv){
     return 0;
 }
 
+//Loop through int array and return first even number, or -1 if none exist
 int myfirst(int integers[], int size){
-    //Loop through int array and return first even number
-    //If not such number exists, return -1
     for(int i = 0; i < size; i++){
         if(integers[i] % 2 == 0){
             if(integers[i] >= 0){
@@ -58,7 +58,6 @@ int myfirst(int integers[], int size){
             }
         }
     }
-
     return -1;
 }
 

@@ -2,8 +2,9 @@
 CH-230-A
 a10_p8.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Reads two complex numbers from user input, performs operations, prints results
+*/
 
 #include <iostream>
 #include "Complex.h"

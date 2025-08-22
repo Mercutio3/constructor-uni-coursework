@@ -2,8 +2,9 @@
 CH-230-A
 a9_p5.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+1 November 2022
+Number guessing game from 1-100, with feedback for high/low guesses
+*/
 
 #include <iostream>
 #include <cstdlib>

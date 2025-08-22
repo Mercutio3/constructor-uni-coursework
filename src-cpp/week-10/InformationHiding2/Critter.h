@@ -2,8 +2,9 @@
 CH-230-A
 a10_p6.h
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Definines variables, constructors, and methods for critter class, with private methodse
+*/
 
 #include <string> // defines standard C++ string class
 

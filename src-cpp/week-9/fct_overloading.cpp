@@ -2,8 +2,9 @@
 CH-230-A
 a9_p4.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+1 November 2022
+Overloads function mycount() to do different things depending on input types
+*/
 
 #include <iostream>
 

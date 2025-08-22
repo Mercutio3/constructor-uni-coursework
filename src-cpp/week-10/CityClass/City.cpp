@@ -2,8 +2,9 @@
 CH-230-A
 a10_p3.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+8 November 2022
+Implements getter and setter methods for city class
+*/
 
 #include <iostream>
 #include "City.h"

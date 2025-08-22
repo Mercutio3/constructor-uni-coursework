@@ -2,8 +2,9 @@
 CH-230-A
 a9_p9.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+2 November 2022
+Word-guessing game where vowels are printed as underscores
+*/
 
 #include <iostream>
 
@@ -65,12 +66,13 @@ int main(int argc, char** argv){
     return 0;
 }
 
+//Iterate through string, replacing vowels with underscores
 void printUnderscores(string word){
     //Initialize bool flag and char vowel array
     char vowels[] = {'a','e','i','o','u'};
     bool flag;
 
-    //Iterate through string; print vowels as '_'
+    //Replace vowels in string with '_'
     for(int i = 0; i < (int)word.size(); i++){
         flag = false;
         for(int j = 0; j < 5; j++){
@@ -87,8 +89,8 @@ void printUnderscores(string word){
     cout << endl;
 }
 
+//Generate random number between 1 and max
 int generateRandomInt(int max){
-    //Generate random number between 1 and max
     int randomNumber;
     srand(static_cast<unsigned int>(time(0)));
     randomNumber = rand();

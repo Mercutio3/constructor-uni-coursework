@@ -2,8 +2,9 @@
 CH-230-A
 a10_p2.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Implements getter, setter, and operation methods for critter class
+*/
 
 #include <iostream>
 #include "Critter.h"

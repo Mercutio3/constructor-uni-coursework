@@ -2,8 +2,9 @@
 CH-230-A
 a9_p2.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+1 November 2022
+Prints string s and double x n times
+*/
 
 #include <iostream>
 

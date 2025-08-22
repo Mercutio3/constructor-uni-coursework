@@ -2,8 +2,9 @@
 CH-230-A
 a9_p3.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+1 November 2022
+Calculates absolute values of floats
+*/
 
 #include <iostream>
 
@@ -23,9 +24,9 @@ int main(int argc, char** argv){
     return 0;
 }
 
+//Return input if positive (already absolute value) or with opposite sign if negative
 float absoluteValue(float num){
-    //Return input number if it's positive (already its absolute value)
-    //Return input number with opposite sign if it's negative
+    
     if(num >= 0.0){
         return num;
     } else {

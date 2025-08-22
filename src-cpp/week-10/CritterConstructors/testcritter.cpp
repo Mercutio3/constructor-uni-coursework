@@ -2,8 +2,9 @@
 CH-230-A
 a10_p4.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+8 November 2022
+Creates critters with combinations of defaults and user-set attributes
+*/
 
 #include <iostream>
 #include <cstdlib>

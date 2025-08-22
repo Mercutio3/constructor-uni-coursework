@@ -3,7 +3,8 @@ CH-230-A
 a10_p3.cpp
 Santiago Dominguez
 sdominguez@jacobs-university.de
- */
+Defines three cities, sets their properties, and prints them
+*/
 
 #include <iostream>
 #include <cstdlib>

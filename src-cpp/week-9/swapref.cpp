@@ -2,29 +2,30 @@
 CH-230-A
 a9_p7.c
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+2 November 2022
+Swap ints, floats, and char pointers via reference
+*/
 
 #include <iostream>
 
 using namespace std;
 
+//Swap ints using 'real' call-by-reference
 void swapping(int &a, int &b){
-    //Swap ints using 'real' call-by-reference
     int help = a;
     a = b;
     b = help;
 }
 
+//Swap floats using 'real' call-by-reference
 void swapping(float &x, float &y){
-    //Swap floats using 'real' call-by-reference
     float help = x;
     x = y;
     y = help;
 }
 
+//Swap char pointers using 'real' call-by-reference
 void swapping(const char *&str1, const char *&str2){
-    //Swap char pointers using 'real' call-by-reference
     const char *help = str1;
     str1 = str2;
     str2 = help;
@@ -54,11 +55,3 @@ int main(void) {
     
     return 0;
 }
-/*
-eagle
-black
-car
-saving someone
-chess
-plato
-*/

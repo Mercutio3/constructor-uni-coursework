@@ -2,8 +2,9 @@
 CH-230-A
 a10_p7.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Demonstrates usage of copy constructors, function calling via values and reference
+*/
 
 #include <iostream>
 #include <cstring>  // standard C string.h header file

@@ -2,8 +2,9 @@
 CH-230-A
 a10_p8.h
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Header file defining variables, constructors, and methods for complex number class
+*/
 
 class Complex {
 

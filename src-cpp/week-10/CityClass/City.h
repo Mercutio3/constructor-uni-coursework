@@ -3,7 +3,8 @@ CH-230-A
 a10_p3.h
 Santiago Dominguez
 sdominguez@jacobs-university.de
- */
+Header file defining variables and methods for city class
+*/
 
 #include <string>
 

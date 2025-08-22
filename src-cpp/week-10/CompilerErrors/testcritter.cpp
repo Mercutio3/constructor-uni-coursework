@@ -2,8 +2,9 @@
 CH-230-A
 a10_p2.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+7 November 2022
+Creates a critter with attributes read from user-input and prints them
+*/
 
 #include <iostream>
 #include <cstdlib>
@@ -11,8 +12,7 @@ sdominguez@jacobs-university.de
 
 using namespace std;
 
-int main(int argc, char** argv)
-{
+int main(int argc, char** argv){
 	Critter c;
 
 	string name;
@@ -23,9 +23,7 @@ int main(int argc, char** argv)
 	float weight;
  
 	cout << endl << "Please enter data: " << endl;
-	cout << "Name: ";
-	// cin >> name; will not work if name contains
-	// spaces
+	cout << "Name: "; // Will not work if name contains spaces
 	getline(cin, name);
 	c.setName(name);
 	cout << "Hunger: ";

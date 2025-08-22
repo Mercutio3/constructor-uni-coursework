@@ -2,16 +2,17 @@
 CH-230-A
 a10_p5.cpp
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+9 November 2022
+Implements getter, setter, constructor, and operation methods for critter class
+*/
 
 #include <iostream>
 #include "Critter.h"
 
 using namespace std;
 
+//Constructor for critter given no properties, will use all defaults
 Critter::Critter(){
-	//Constructor for critter given no properties, will use all defaults
 	cout << "Creating critter with no properties..." << endl;
     name = "default_critter";
 	height = 5.0;
@@ -19,8 +20,8 @@ Critter::Critter(){
 	boredom = 0;
 }
 
+//Constructor for critter given only name, rest will be defaults
 Critter::Critter(string newName){
-	//Constructor for critter given only name, rest will be defaults
 	cout << "Creating critter with only name specified..." << endl;
 	name = newName;
 	height = 5.0;
@@ -28,8 +29,8 @@ Critter::Critter(string newName){
 	boredom = 0;
 }
 
+//Constructor for critter given all four properties
 Critter::Critter(string newName, int newHunger, int newBoredom, double newHeight){
-	//Constructor for critter given all four properties
 	cout << "Creating critter with all properties specified..." << endl;
 	name = newName;
 	hunger = intToDouble(newHunger);
@@ -45,8 +46,8 @@ void Critter::setHunger(int newhunger) {
 	hunger = intToDouble(newhunger);
 }
 
+//Modified print method so that it prints all four properties
 void Critter::print() {
-	//Modified print method so that it prints all four properties.
 	int retHung = getHunger();
 	cout << "I am " << name << ". My hunger level is " << retHung;
 	cout << ". My boredom level is " << boredom << ". My height is ";

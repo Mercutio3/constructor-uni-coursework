@@ -2,8 +2,9 @@
 CH-230-A
 a10_p4.h
 Santiago Dominguez
-sdominguez@jacobs-university.de
- */
+8 November 2022
+Header file defining variables, constructors, and methods for critter class
+*/
 
 #include <string> // defines standard C++ string class
 
